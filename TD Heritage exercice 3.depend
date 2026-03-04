@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1772588431 source:c:\users\jerbi\documents\ensi\1ère année cycle d'ingenieur ensi\semestre 2\poo\td heritage exercice 3\main.cpp
+	<iostream>
+	<string>
+	"article.h"
+	"solde.h"
+
+1772588087 source:c:\users\jerbi\documents\ensi\1ère année cycle d'ingenieur ensi\semestre 2\poo\td heritage exercice 3\src\article.cpp
+	"article.h"
+	<string>
+	<iostream>
+
+1772588050 c:\users\jerbi\documents\ensi\1ère année cycle d'ingenieur ensi\semestre 2\poo\td heritage exercice 3\include\article.h
+	<string>
+	<iostream>
+
+1772588740 c:\users\jerbi\documents\ensi\1ère année cycle d'ingenieur ensi\semestre 2\poo\td heritage exercice 3\include\solde.h
+	<string>
+	<iostream>
+	"article.h"
+
+1772588709 source:c:\users\jerbi\documents\ensi\1ère année cycle d'ingenieur ensi\semestre 2\poo\td heritage exercice 3\src\solde.cpp
+	"solde.h"
+	"article.h"
+	<string>
+	<iostream>
+
